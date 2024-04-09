@@ -8,10 +8,15 @@ working directory (visible): veo mis archivos, y modifico sobre este directorio.
 staging area (no visible): comando = git add. Añado del directorio en esta area de preparacion.
 get directory(repository) (no visible): comando = git commit tiene muchos commits que permiten recorrerse para ver la historia y recuperar
 o informarse de toda la informacion previa del proyecto encontrando el comit necesario para resolver
-como se usa?
+
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git add home.html  
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git commit -m home.html
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git push
+
+PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git branch
+PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git branch prueba
+PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git checkout prueba
+PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git branch -D prueba
 
 Github
 
