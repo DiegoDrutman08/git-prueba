@@ -13,6 +13,8 @@ PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git add 
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git commit -m home.html
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git push
 
+Aqui se debe ir a publicar branch desde el mismo visual studio code.
+
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git branch
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git branch prueba
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git checkout prueba
