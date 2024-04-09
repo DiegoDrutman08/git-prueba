@@ -21,4 +21,6 @@ PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git bran
 Si se hacen cambios o se borra alguna de las ramas es necesario no estar trabajando dentro de la misma.
 
 Github
+Desde github se pueden crear repositorios. git fetch busca los cambios que se hayan realizado desde ahi. git pull los trae. 
+Tambien se pueden hacer get push para editar desde el visual.
 
