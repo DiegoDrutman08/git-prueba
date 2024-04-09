@@ -1,0 +1,12 @@
+Git 
+Registra las versiones que se hacen sobre una misma rama principal (madre) 
+y permite construir las diversas ramas con un conjunto de personas o individualmente desde la nube. 
+Se van subiendo todas las mejoras. 
+Si se pisan se puede generar conflictos, dado que es necesario saber quien agrego o cambio cada parte del codigo.
+Tiene 3 estados Git:
+working directory (visible): veo mis archivos, y modifico sobre este directorio.
+staging area (no visible): comando = git add. Añado del directorio en esta area de preparacion.
+get directory(repository) (no visible): comando = git commit tiene muchos commits que permiten recorrerse para ver la historia y recuperar
+o informarse de toda la informacion previa del proyecto encontrando el comit necesario para resolver
+Github
+
