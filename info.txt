@@ -20,6 +20,8 @@ PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git bran
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git checkout prueba
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git branch -D prueba
 
+PS C:\Users\Operador\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git merge
+
 Si se hacen cambios o se borra alguna de las ramas es necesario no estar trabajando dentro de la misma.
 
 Github
