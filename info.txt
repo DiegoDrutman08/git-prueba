@@ -11,6 +11,7 @@ o informarse de toda la informacion previa del proyecto encontrando el comit nec
 como se usa?
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git add home.html  
 PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git commit -m home.html
+PS C:\Users\Usuario\Dropbox\DRUPER\DiegoDx\Python\Coder\Clases\Clase16> git push
 
 Github
 
